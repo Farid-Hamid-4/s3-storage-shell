@@ -1,5 +1,7 @@
 # AWS S3 Storage Shell 
 
+An AWS S3 shell intended to mimic the behavior of a bash shell to upload, update, and move/remove files, along with create and navigate to directories. 
+
 ## Acknowledgement
 A University of Guelph CIS*4010 Cloud Computing assignment.
 
