@@ -3,12 +3,11 @@
 ## Acknowledgement
 A University of Guelph CIS*4010 Cloud Computing assignment.
 
-## REGION
+## Region
 `ca-central-1`
 
-## IMPORTANT 
-Must have python >= 3.4 to use Pathlib library
-`helpers.py` contains helper functions. Ensure it is in the same directory as `s5.py`
+## Prerequisites
+- Python 3.4 or higher to use Pathlib library
 
 ## Usage
 1. Ensure that the `S5-S3.conf` file is in the same directory as the `s5.py` file
