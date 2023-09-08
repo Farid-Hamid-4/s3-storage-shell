@@ -15,6 +15,6 @@ Must have python >= 3.4 to use Pathlib library
 ## Normal Behavior of shell
 Every function works as specified in the assignment specs and have been modelled to have the same behavior as bash
 
-## Limitations:
+## Limitations
 This shell was programmed on Mac, not sure if the paths will cause an issue on Windows or Linux operating systems
 Try to have 'Region' set to `ca-central-1` otherwise `create_bucket` MIGHT NOT work.
