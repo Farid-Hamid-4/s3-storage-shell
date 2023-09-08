@@ -1,5 +1,8 @@
 # AWS S3 Storage Shell 
 
+## Acknowledgement
+A University of Guelph CIS*4010 Cloud Computing assignment.
+
 ## REGION
 `ca-central-1`
 
